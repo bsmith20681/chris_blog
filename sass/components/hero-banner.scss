@@ -1,0 +1,11 @@
+.hero-banner {
+  background: linear-gradient(to bottom right, rgba(20, 20, 20, 0.3), rgba(20, 20, 20, 0.3)), url(../img/FullSizeRender.jpeg) no-repeat bottom center;
+  height: 95vh;
+  background-size: cover;
+
+  color: $white;
+}
+
+.banner-title {
+  margin-top: 200px;
+}
